@@ -20,5 +20,6 @@ If you found this project useful, please consider citing the following work:
 
 ## See also
 
+- [demo presentation (YouTube)](https://youtu.be/fTSV94tmdCE)
 - [Unity-Technologies/ROS-TCP-Connector](https://github.com/Unity-Technologies/ROS-TCP-Connector)
 - [roboticslab-uc3m/tiago_telepresence_controllers](https://github.com/roboticslab-uc3m/tiago_telepresence_controllers)
