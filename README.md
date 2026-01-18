@@ -6,7 +6,7 @@ Unity VR project for the TIAGo and TIAGo++ robots.
 
 If you found this project useful, please consider citing the following work:
 
-Łukawski, B., et al, "Towards the development of telepresence applications with TIAGo and TIAGo++ using a virtual reality headset," in IEEE Int. Conf. on Autonomous Robot Systems and Competitions (ICARSC), 2025.
+Łukawski, B., et al, "Towards the development of telepresence applications with TIAGo and TIAGo++ using a virtual reality headset," in IEEE Int. Conf. on Autonomous Robot Systems and Competitions (ICARSC), 2025. DOI: [10.1109/ICARSC65809.2025.10970173](https://doi.org/10.1109/ICARSC65809.2025.10970173)
 
 ```bibtex
 @inproceedings{lukawski2025icarsc,
