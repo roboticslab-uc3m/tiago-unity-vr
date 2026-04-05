@@ -67,7 +67,8 @@ public class ImageSubscriber : MonoBehaviour
         texture.Apply();
         screen.texture = texture;
     }
-    public void BgrToRgb(byte[] data)
+
+    void BgrToRgb(byte[] data)
     {
         for (int i = 0; i < data.Length; i += 3)
         {
